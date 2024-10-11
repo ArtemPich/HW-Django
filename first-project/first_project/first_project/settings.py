@@ -39,7 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     # здесь мы подключаем наши приложения
-    'app'
+    'app',
+    'first_project'
 ]
 
 MIDDLEWARE = [
